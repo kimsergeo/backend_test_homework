@@ -1,0 +1,8 @@
+# Ignore README.md
+README.md
+
+# Ignore side.txt in build
+build/side.txt
+
+# Ignore .doc
+*.doc
